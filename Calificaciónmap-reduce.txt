@@ -1,0 +1,3 @@
+Calificación: 1.8/2
+El ejercicio 3, pide usar únicamente map
+
